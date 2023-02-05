@@ -7,6 +7,10 @@ A curated list of essential resources and links for software developers. From le
 - [API Documentation](#api-documentation)
 - [Coding Challenges](#coding-challenges)
 - [Community](#community)
+- [Websites](#websites)
+- [Tools and Services](#tools-and-services)
+- [Books and Courses](#books-and-courses)
+- [Conferences and Events](#Conferences-and-events)
 - [Miscellaneous](#miscellaneous)
 
 ## Learning Platforms
@@ -30,6 +34,38 @@ A curated list of essential resources and links for software developers. From le
 - [Dev.to](https://dev.to/)
 - [Medium](https://medium.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+
+## Websites
+- [The Odin Project](https://www.theodinproject.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Scotch.io](https://scotch.io/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Dzone](https://dzone.com/)
+
+## Tools and Services
+- [GitHub](https://github.com/)
+- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+- [Postman](https://www.postman.com/)
+- [JIRA](https://www.atlassian.com/software/jira)
+- [Slack](https://slack.com/)
+
+## Books and Courses
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Node.js, Express & MongoDB Dev to Deployment](https://www.udemy.com/course/nodejs-express-mongodb-dev-to-deployment/)
+- [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/)
+- [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+
+## Conferences and Events
+- [React Conf](https://conf.reactjs.org/)
+- [NodeConf](https://www.nodeconf.com/)
+- [RubyConf](https://rubyconf.org/)
+- [DjangoCon](https://djangocon.us/)
+- [JSConf](https://jsconf.com/)
+- [Google I/O](https://events.google.com/io/)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
