@@ -12,6 +12,7 @@ A curated list of essential resources and links for software developers. From le
 - [Books and Courses](#books-and-courses)
 - [Conferences and Events](#Conferences-and-events)
 - [Miscellaneous](#miscellaneous)
+- [AI Tools](#ai-tools)
 
 ## Learning Platforms
 - [Codecademy](https://www.codecademy.com/)
@@ -66,6 +67,12 @@ A curated list of essential resources and links for software developers. From le
 - [DjangoCon](https://djangocon.us/)
 - [JSConf](https://jsconf.com/)
 - [Google I/O](https://events.google.com/io/)
+
+## AI Tools
+- [Easy Peasy AI Chatbot](https://easy-peasy.ai/chat)
+- [Beautiful Presentations](https://www.beautiful.ai/)
+- [AI Video Editor](https://runwayml.com/)
+- [Zoom Backgrounds](https://zoomscape.ai/)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
