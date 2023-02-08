@@ -77,6 +77,7 @@ A curated list of essential resources and links for software developers. From le
 - [Deciphr - Timestamp Your Podcast](https://www.deciphr.ai/)
 - [Ranked - SEO](https://www.ranked.ai/)
 - [Contlo.ai - AI marketer](https://contlo.ai/)
+- [Create Art using AI](https://deepai.org/)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
