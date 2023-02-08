@@ -73,6 +73,10 @@ A curated list of essential resources and links for software developers. From le
 - [Beautiful Presentations](https://www.beautiful.ai/)
 - [AI Video Editor](https://runwayml.com/)
 - [Zoom Backgrounds](https://zoomscape.ai/)
+- [Mixo - Launch Your Startup](https://www.mixo.io/)
+- [Deciphr - Timestamp Your Podcast](https://www.deciphr.ai/)
+- [Ranked - SEO](https://www.ranked.ai/)
+- [Contlo.ai - AI marketer](https://contlo.ai/)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
@@ -83,3 +87,5 @@ A curated list of essential resources and links for software developers. From le
 
 ## Contributing
 Feel free to submit a pull request to add new resources or update existing ones. Let's make this repository a comprehensive resource for software developers!
+
+Updated(07/02/2023)
