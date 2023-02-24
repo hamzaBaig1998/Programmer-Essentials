@@ -80,6 +80,7 @@ A curated list of essential resources and links for software developers. From le
 - [Ranked - SEO](https://www.ranked.ai/)
 - [Contlo.ai - AI marketer](https://contlo.ai/)
 - [Create Art using AI](https://deepai.org/)
+- [Create Videos using AI](https://www.synthesia.io/?via=crash&gclid=CjwKCAiAl9efBhAkEiwA4TorioBbbL9X5NZ6wTHmFQyPFtYXL8vkJijFOKIf1TS_oKsJ-XoNYwCKnhoC0jAQAvD_BwE)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
