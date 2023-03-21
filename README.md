@@ -21,6 +21,7 @@ A curated list of essential resources and links for software developers. From le
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Udemy](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
+- [CodeLabs](https://codelabs.developers.google.com/)
 
 ## API Documentation
 - [OpenWeatherMap API](https://openweathermap.org/api)
