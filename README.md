@@ -82,6 +82,7 @@ A curated list of essential resources and links for software developers. From le
 - [Create Art using AI](https://deepai.org/)
 - [Create Videos using AI](https://www.synthesia.io/?via=crash&gclid=CjwKCAiAl9efBhAkEiwA4TorioBbbL9X5NZ6wTHmFQyPFtYXL8vkJijFOKIf1TS_oKsJ-XoNYwCKnhoC0jAQAvD_BwE)
 - [Create Video Presentations using AI](https://lumen5.com)
+- [Create Instagram posts using AI](https://app.predis.ai)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
