@@ -15,6 +15,7 @@ A curated list of essential resources and links for software developers. From le
 - [Conferences and Events](#Conferences-and-events)
 - [Miscellaneous](#miscellaneous)
 - [AI Tools](#ai-tools)
+- [Illustations](#illustrations)
 
 ## Learning Platforms
 - [Codecademy](https://www.codecademy.com/)
@@ -85,6 +86,10 @@ A curated list of essential resources and links for software developers. From le
 - [Create Video Presentations using AI](https://lumen5.com)
 - [Create Instagram posts using AI](https://app.predis.ai)
 - [Create animated videos](https://app.animaker.com/)
+
+## Illustrations
+- [Open Peeps](https://www.openpeeps.com/)
+- [Undraw](https://undraw.co/)
 
 ## Miscellaneous
 - [Twitter API](https://developer.twitter.com/en/docs)
